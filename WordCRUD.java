@@ -130,7 +130,7 @@ public void listAll() {
 
 	public void saveFile() {
 		try {
-			PrintWriter pr = new PrintWriter(new FileWriter("test.txt"));
+			PrintWriter pr = new PrintWriter(new FileWriter("Dictionary.txt"));
 			for(Word one : list) {
 				pr.write(one.toFileString() + "\n");
 			}
