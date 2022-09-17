@@ -24,7 +24,7 @@
 새 데이터 파일(test.txt):   
 <img src="test.png"></img><br/>
 
-데이터 파일 로드 테스트(Dictionary.txt) - 삭제 후 단어 수 변경 확인 가능:   
+데이터 파일 로드 테스트(Dictionary.txt) - 삭제 후 단어 수 변경(18>17) 확인 가능:   
 <img src="r1.png"></img><br/>
 <img src="r2.png"></img><br/>
 
