@@ -1,0 +1,18 @@
+2|conclude|결론짓다,체결하다
+3|superintendent|관리자, 감독관
+2|equipment|장비, 용품 
+1|require|요구하다
+1|technology|과학기술
+2|individual|개인
+1|provide|공급하다
+2|attitude|태도
+3|pervasive|퍼지는, 스며드는
+1|research|조사하다
+2|tend|～하는 경향이 있다
+2|thus|이와 같이, 그러므로
+1|demand|요구하다
+3|disheveled|헝클어진, 흩어진
+2|occasion|경우, 행사, 의식
+2|determine|결정하다, 결심하다
+1|compose|구성하다, 작곡하다
+3|prejudice|편견 
