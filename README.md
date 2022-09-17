@@ -21,5 +21,9 @@
 파일 저장:   
 <img src="Screen Shot 2022-09-17 at 9.50.10 PM.png"></img><br/>
 
+새 데이터 파일(test.txt):   
+<img src="test.png"></img><br/>
+
+
 + java 파일 외 상위 문서 전체 포함
 <https://github.com/Lucia2135/Project1.-Java-CRUD-project.git>
